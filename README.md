@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-<!--
-**jjhonny/jjhonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jhonny, a Software Developer and a technology and gaming enthusiast. <br/>
 
+Here are the technologies I use:
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,js,html,css,tailwind,postgres,docker,bootstrap&theme=dark&perline=6)](https://skillicons.dev)
+
+I am interested in studying:
+
+[![My Skills](https://skillicons.dev/icons?i=go,&theme=dark)](https://skillicons.dev)
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
