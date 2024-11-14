@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+### About me 💬
 
 en-us <br/>
 My name is Jhonny, and I am a Full Stack developer with over one year of experience. I primarily use React and Node, but I am not limited to just these technologies. I am passionate about programming and enjoy playing some games. <br/>
@@ -6,7 +8,7 @@ My name is Jhonny, and I am a Full Stack developer with over one year of experie
 pt-br <br/>
 Meu nome é Jhonny e sou um desenvolvedor Full Stack com mais de 1 ano de experiência. Utilizo principalmente React e Node, mas não me restrinjo apenas a essas tecnologias. Sou apaixonado por programação e gosto de jogar alguns jogos. <br/>
 
-:computer: Here are the technologies I use: <br/> <br/>
+### 🛠️ Technologies: <br/> <br/>
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,express,typescript,js,go,postgres,docker&theme=dark&perline=9)](https://skillicons.dev)
 
 
