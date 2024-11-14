@@ -3,10 +3,10 @@
 ### About me 💬
 
 en-us <br/>
-My name is Jhonny, and I am a Full Stack developer with over one year of experience. I primarily use React and Node, but I am not limited to just these technologies. I am passionate about programming and enjoy playing some games. <br/>
+My name is Jhonny, and I am Full Stack developer with over one year of experience. I primarily use React and Node, but I am not limited to just these technologies. I am passionate about programming and enjoy playing some games. <br/>
 
 pt-br <br/>
-Meu nome é Jhonny e sou um desenvolvedor Full Stack com mais de 1 ano de experiência. Utilizo principalmente React e Node, mas não me restrinjo apenas a essas tecnologias. Sou apaixonado por programação e gosto de jogar alguns jogos. <br/>
+Meu nome é Jhonny e sou desenvolvedor Full Stack com mais de 1 ano de experiência. Utilizo principalmente React e Node, mas não me restrinjo apenas a essas tecnologias. Sou apaixonado por programação e gosto de jogar alguns jogos. <br/>
 
 ### 🛠️ Technologies: <br/> 
 - FrontEnd <br/> 
