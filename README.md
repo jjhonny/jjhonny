@@ -9,7 +9,13 @@ pt-br <br/>
 Meu nome é Jhonny e sou um desenvolvedor Full Stack com mais de 1 ano de experiência. Utilizo principalmente React e Node, mas não me restrinjo apenas a essas tecnologias. Sou apaixonado por programação e gosto de jogar alguns jogos. <br/>
 
 ### 🛠️ Technologies: <br/> 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,express,typescript,js,go,postgres,docker&theme=dark&perline=9)](https://skillicons.dev)
+- FrontEnd <br/> 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=dark&perline=5)](https://skillicons.dev)
+- BackEnd <br/> 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,docker&theme=dark&perline=5)](https://skillicons.dev)
+- Languages <br/> 
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,go&theme=dark&perline=5)](https://skillicons.dev)
+
 
 
 <!--
