@@ -3,7 +3,7 @@
 en-us 🇺🇸 <br/>
 My name is Jhonny, and I am a Full Stack developer with over one year of experience. I primarily use React and Node, but I am not limited to just these technologies. I am passionate about programming and enjoy playing some games. <br/>
 
-pt-br 🇧🇷 <br/>
+pt-br ![Brazil Flag](https://cdn-icons-png.flaticon.com/512/197/197386.png) <br/>
 Meu nome é Jhonny e sou um desenvolvedor Full Stack com mais de 1 ano de experiência. Utilizo principalmente React e Node, mas não me restrinjo apenas a essas tecnologias. Sou apaixonado por programação e gosto de jogar alguns jogos. <br/>
 
 Here are the technologies I use: <br/>
