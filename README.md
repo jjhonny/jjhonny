@@ -20,8 +20,6 @@ Meu nome é Jhonny e sou desenvolvedor Full Stack com mais de 1 ano de experiên
 
 
 
-
-
 <!--
 Here are some ideas to get you started:
 
