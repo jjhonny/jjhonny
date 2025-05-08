@@ -2,19 +2,16 @@
 
 ### About me 💬
 
-en-us <br/>
-My name is Jhonny, and I am Full Stack developer with over one year of experience. I primarily use React and Node, but I am not limited to just these technologies. I am passionate about programming and enjoy playing some games. <br/>
+<!-- en-us <br/> -->
+My name is Jhonny, and I’m a Software Developer with 2 years of experience. I primarily work with Flutter and Golang, but I’m not limited to these technologies. I’m passionate about programming and enjoy playing some games in my free time. <br/>
 
+<!--
 pt-br <br/>
-Meu nome é Jhonny e sou desenvolvedor Full Stack com mais de 1 ano de experiência. Utilizo principalmente React e Node, mas não me restrinjo apenas a essas tecnologias. Sou apaixonado por programação e gosto de jogar alguns jogos. <br/>
+Meu nome é Jhonny e sou Desenvolvedor de Software com 2 anos de experiência. Utilizo principalmente Flutter e Golang, mas não me restrinjo apenas a essas tecnologias. Sou apaixonado por programação e gosto de jogar alguns jogos. <br/>
+-->
 
 ### 🛠️ Technologies: <br/> 
-- FrontEnd <br/> 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=dark&perline=5)](https://skillicons.dev)
-- BackEnd <br/> 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,docker&theme=dark&perline=5)](https://skillicons.dev)
-- Languages <br/> 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,go&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,postgres,go,docker&theme=dark&perline=5)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhonny&layout=compact&theme=dracula)
 
