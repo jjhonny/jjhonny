@@ -13,14 +13,14 @@ Meu nome é Jhonny e sou Desenvolvedor de Software com 2 anos de experiência. U
 
 #### 🛠️ Tech Stack  
 
-##### ⚙️ Backend & Infrastructure  
+#### ⚙️ Backend & Infrastructure  
 [![My Skills](https://skillicons.dev/icons?i=go,docker,kubernetes,aws,postgres,redis&theme=dark&perline=6)](https://skillicons.dev)  
 <img src="https://img.shields.io/badge/-Microservices-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Message%20Broker-2D9CDB?style=for-the-badge&logo=rabbitmq&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-CI%2FCD-563D7C?style=for-the-badge&logo=githubactions&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-DevOps-0A66C2?style=for-the-badge&logo=linux&logoColor=white"/>  
 
-##### 💻 Frontend & Mobile  
+#### 💻 Frontend & Mobile  
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,react,ts&theme=dark&perline=6)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhonny&layout=compact&theme=dracula)
