@@ -3,7 +3,7 @@
 ### About me 💬
 
 <!-- en-us <br/> -->
-My name is Jhonny, and I'm a Software Engineer with 2 years of experience. I love transforming the world through code. I also enjoy learning new things, going to the gym, playing video games, and I really love White Monster. <br/>
+My name is Jhonny, and I'm a Software Engineer with 3 years of experience. I love transforming the world through code. I also enjoy learning new things, going to the gym, playing video games, and I really love White Monster. <br/>
 
 <!--
 pt-br <br/>
