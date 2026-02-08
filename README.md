@@ -23,8 +23,8 @@ Meu nome é Jhonny e sou Desenvolvedor de Software com 2 anos de experiência. U
 #### 💻 Frontend & Mobile  
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,react,ts&theme=dark&perline=6)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhonny&layout=compact&theme=dracula)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhonny&layout=compact&theme=dracula)
+-->
 
 
 <!--
